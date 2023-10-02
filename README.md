@@ -2,7 +2,7 @@ Wbsite link :- https://imdb-clone-amit.netlify.app/
 # IMDb Clone
 ![Weather App Screenshot](src/imdb.png)
 
-## Descriptio
+## Description
 The IMDb Clone App is a React.js-based web application that provides a simplified experience similar to IMDb. It allows users to browse three main categories of movies: popular movies, top-rated movies, and upcoming movies. This README file will guide you through setting up and using the app.
 
 ## Features
@@ -15,4 +15,3 @@ The IMDb Clone App is a React.js-based web application that provides a simplifie
 - CSS
 - JavaScript
 - React.js
-- [Weather API](https://openweathermap.org/api)
